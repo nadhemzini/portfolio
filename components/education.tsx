@@ -11,7 +11,7 @@ const educationData = [
   },
   {
     year: '2021 – 2024',
-    school: 'Faculté des Sciences et Technologies de Sidi Bouzid',
+    school: 'Faculté des Sciences et Technologies ',
     degree: 'Bachelor\'s Degree in Computer Science',
     icon: '🎓',
   },

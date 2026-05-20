@@ -74,13 +74,7 @@ export function Hero() {
               >
                 ZINI NADHEM
               </motion.h1>
-              <motion.p
-                className="text-lg md:text-xl text-accent-violet font-display h-8 min-h-8"
-                variants={itemVariants}
-              >
-                {displayedText}
-                <span className="animate-pulse">|</span>
-              </motion.p>
+              
             </div>
 
             <motion.p
@@ -99,7 +93,7 @@ export function Hero() {
                 View Projects
               </Link>
               <a
-                href="C:\Users\Nadhem\OneDrive - Ministere de l'Enseignement Superieur et de la Recherche Scientifique\Bureau\ing2\portfolio\public\ZINI_NADHEM_CV.pdf"
+                href="/zininadhemCV.pdf"
                 download
                 className="px-6 py-3 border-2 border-accent-violet hover:border-accent-cyan text-accent-violet hover:text-accent-cyan rounded-lg font-semibold transition-all duration-300 hover:shadow-lg hover:shadow-accent-violet/20 text-center"
               >
